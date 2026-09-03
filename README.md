@@ -11,7 +11,7 @@ this kind of role actually works in (order books, price-time priority,
 low-latency concurrency), rather than a general-purpose systems project.
 
 See [`docs/architecture.md`](docs/architecture.md) for the full design
-rationale, including an honest discussion of where the tail latency in
+rationale, including a discussion of where the tail latency in
 the benchmark actually comes from.
 
 ## Architecture
